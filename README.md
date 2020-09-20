@@ -7,4 +7,4 @@ Selecting the image shown above the list of the cameras, the app calculates whic
 
 ![](visuals/Screenshot_1572435991.png)
 
-![](visuals/WhenAMessageArrive.gif)
+!![](visuals/WhenAMessageArrive.gif)
