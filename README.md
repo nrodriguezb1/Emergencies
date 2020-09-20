@@ -7,7 +7,7 @@ Selecting the image shown above the list of the cameras, the app calculates whic
 
 ![Screenshot initial view](visuals/Screenshot_1572435991.png)
 
-**Videos in better resolution [HERE](https://github.com/nrodriguezb1/Emergencies/tree/master/visuals)**
+### **Videos in better resolution [HERE](https://github.com/nrodriguezb1/Emergencies/tree/master/visuals)**
 
 ![When a message arrives video](visuals/WhenAMessageArrive.gif)
 
