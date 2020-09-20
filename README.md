@@ -6,3 +6,5 @@ Selecting the image shown above the list of the cameras, the app calculates whic
 ## App screenshoots
 
 ![](visuals/Screenshot_1572435991.png)
+
+![](visuals/WhenAMessageArrive.webm)
