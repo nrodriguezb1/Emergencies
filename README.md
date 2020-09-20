@@ -9,4 +9,4 @@ Selecting the image shown above the list of the cameras, the app calculates whic
 
 ![When a message arrives video](visuals/WhenAMessageArrive.gif)
 
-![When clic on a camera](visuals/clickOnCameraName.gif
+![When clic on a camera name](visuals/clickOnCameraName.gif)
