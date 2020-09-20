@@ -5,6 +5,8 @@ Selecting the image shown above the list of the cameras, the app calculates whic
 
 ## App screenshoots
 
-![](visuals/Screenshot_1572435991.png)
+![Screenshot initial view](visuals/Screenshot_1572435991.png)
 
-!![](visuals/WhenAMessageArrive.gif)
+![When a message arrives video](visuals/WhenAMessageArrive.gif)
+
+![When clic on a camera](visuals/clickOnCameraName.webm)
